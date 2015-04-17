@@ -12,11 +12,12 @@ Bulk upload images to create posts / custom posts with featured images.
 
 == Description ==
 
-Bulk upload images to create posts / custom posts with featured images.
+* Bulk upload images to create posts / custom posts with featured images.
+* New posts are created using the file name of the image as the post title.
+* You can select the post type and a taxonomy for uploading the images to.
 
-New posts are created using the file name of the image as the post title.
+*Thanks to [Jalloro](http:/www.jalloro.com) for hours of testing.*
 
-You can select the post type and a taxonomy for uploading the images to.
 
 == Installation ==
 
@@ -27,7 +28,6 @@ You can select the post type and a taxonomy for uploading the images to.
 4. Go to Bulk > Importer select your taxonomy and upload your images.
 
 
-Big thanks to [Jalloro](http:/www.jalloro.com, "Jalloro") for hours of testing.
 
 == Frequently Asked Questions ==
 
