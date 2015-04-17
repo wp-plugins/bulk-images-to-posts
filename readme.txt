@@ -19,7 +19,7 @@ The perfect tool to quickly populate your site.
 * New posts are created using the file name of the image as the post title.
 * You can select the post type and a taxonomy for uploading the images to.
 
-*Thanks to [Jalloro](http:/www.jalloro.com) for hours of testing.*
+*Thanks to [Jalloro](http:/www.jalloro.com) for the many hours of testing.*
 
 
 == Installation ==
