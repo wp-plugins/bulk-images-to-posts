@@ -26,6 +26,9 @@ You can select the post type and a taxonomy for uploading the images to.
 3. Go to the Bulk > Settings page and configure the plugin to work with your posts types.
 4. Go to Bulk > Importer select your taxonomy and upload your images.
 
+
+Big thanks to [Jalloro](http:/www.jalloro.com, "Jalloro") for hours of testing.
+
 == Frequently Asked Questions ==
 
 = Can I help improve this plugin =
