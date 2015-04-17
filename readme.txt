@@ -1,7 +1,7 @@
 === Bulk Images to Posts ===
 Contributors: mezzaninegold
 Donate link: http://mezzaninegold.com/
-Tags: images, posts, featured
+Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload
 Requires at least: 4.0.0
 Tested up to: 4.1
 Stable tag: 3.0
@@ -11,6 +11,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Bulk upload images to create posts / custom posts with featured images.
 
 == Description ==
+= BIP =
+
+The perfect tool to quickly populate your site.
 
 * Bulk upload images to create posts / custom posts with featured images.
 * New posts are created using the file name of the image as the post title.
