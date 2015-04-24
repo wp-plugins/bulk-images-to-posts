@@ -21,7 +21,7 @@ function bip_settings_page() { ?>
 			        <div class="inside">
 			                <select id="bip-post-type" name="bip_post_type">
 			                    <option style="font-weight:bold;" value="<?php echo get_option('bip_post_type'); ?>">
-			                        <?php echo get_option('bip_post_type'); ?>
+			                        <?php echo get_option('bip_post_type','post'); ?>
 			                    </option>
 			                    <option value="post">
 			                        post

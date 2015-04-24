@@ -3,7 +3,7 @@
 Plugin Name: Bulk Images to Posts
 Plugin URI: http://www.mezzaninegold.com
 Description: Bulk upload images to create posts / custom posts with featured images.
-Version: 3.0
+Version: 3.1
 Author: Mezzanine gold
 Author URI: http://mezzaninegold.com
 License: GPLv2 or later
@@ -74,7 +74,7 @@ function bip_upload_page() { ?>
 			
 
 				    <?php
-					$selected_tax = get_option('bip_taxonomy'); 
+					$selected_tax = get_option('bip_taxonomy','category'); 
 					$selected_cats = get_option('bip_terms');
 				    $walker = new Walker_Bip_Terms( $selected_cats, 'in-category' ); ?>
 				    <div class="postbox">
