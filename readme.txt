@@ -4,7 +4,7 @@ Donate link: http://mezzaninegold.com/
 Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload
 Requires at least: 4.0.0
 Tested up to: 4.2
-Stable tag: 3.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,20 @@ Yes, head over to github
 1. Preview of the Uploader
 
 == Changelog ==
+
+= 3.2 =
+* Added brief instructions following feedback.
+
+= 3.1 =
+* Minor amends
+
+= 3.0 =
+* Complete rebuild using dropzone.js
+* Added to wordpress repository
+
+= 2.0 =
+* Renamed plugin
+* Finished testing.
 
 = 1.0 =
 * Custom media uploader on the options panel so that only images uploaded there are added as posts.
