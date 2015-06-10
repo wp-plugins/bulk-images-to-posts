@@ -1,7 +1,9 @@
 	
 <form id="the-drop" method="post" action="#" enctype="multipart/form-data"  >
 	<div id="the-dropped" class="dropzone">
-		<div class="dz-message">Drag & Drop or click to upload an image
+		<div class="dz-message">
+			<span class="upload-icon dashicons dashicons-images-alt2"></span>
+			<p>Drops images here or click to upload.</p>
 		</div>
 		</div>
 		  <div class="fallback">
