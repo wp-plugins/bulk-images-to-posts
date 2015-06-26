@@ -15,22 +15,6 @@
 	<?php wp_nonce_field( 'bip_upload', 'bip_upload_nonce' ); ?>
 	
 </form>
-											
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		Dropzone.autoDiscover = false;
-		new Dropzone("#the-drop", { 
-		  paramName: "bipImage",
-		  uploadMultiple: false, // The name that will be used to transfer the file
-		  previewsContainer: '#the-dropped',
-		  clickable: '#the-dropped',
-		  method: "post",
-		  addRemoveLinks: false,
-		  autoProcessQueue: true,
-		});
-	});
-</script>
-
 <?php	
 	if ( isset( $_POST['bipSubmitted'] ) 
 	&& isset( $_POST['bip_upload_nonce'] ) 

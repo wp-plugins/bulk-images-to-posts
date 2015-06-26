@@ -3,7 +3,7 @@
 Plugin Name: Bulk Images to Posts
 Plugin URI: http://www.mezzaninegold.com
 Description: Bulk upload images to create posts / custom posts with featured images.
-Version: 3.2
+Version: 3.3
 Author: Mezzanine gold
 Author URI: http://mezzaninegold.com
 License: GPLv2 or later

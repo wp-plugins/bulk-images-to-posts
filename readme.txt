@@ -3,8 +3,8 @@ Contributors: mezzaninegold
 Donate link: http://mezzaninegold.com/
 Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload
 Requires at least: 4.0.0
-Tested up to: 4.2
-Stable tag: 3.2
+Tested up to: 4.2.2
+Stable tag: 3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,9 +34,9 @@ The perfect tool to quickly populate your site.
 
 == Frequently Asked Questions ==
 
-= Can I help improve this plugin =
+= How do I change the post type and taxonmy? =
 
-Yes, head over to github
+Go to the settings page from the sidebar
 
 
 == Screenshots ==
@@ -44,6 +44,9 @@ Yes, head over to github
 1. Preview of the Uploader
 
 == Changelog ==
+
+= 3.3 =
+* The uploads box is now cleared when new taxonomies are selected and saved.
 
 = 3.2 =
 * Added brief instructions following feedback.
